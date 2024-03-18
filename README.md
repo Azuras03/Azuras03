@@ -9,3 +9,12 @@ Etudiant en troisième année de BUT Informatique. Passionné de programmation, 
 
 
 - ⚡ Fun fact: Je suis fun HAHAHA
+
+<div align="center">
+      <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=azuras03&" alt="azuras03" />
+      <img align="center" width="44%" src="https://github-contributor-stats.vercel.app/api?username=azuras03&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="azuras03" />
+</div>
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=azuras03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
