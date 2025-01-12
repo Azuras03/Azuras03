@@ -1,6 +1,6 @@
 ### Bonjour à toutes et à tous 👋
 
-Etudiant en troisième année de BUT Informatique. Passionné de programmation, de dessin, d'animation et de création audiovisuelle ❄️☺️
+Etudiant en première année d'École d'Ingénieur en Informatique ^^. Passionné de programmation, de dessin, d'animation et de création audiovisuelle ❄️☺️
 
 <div align="center">
     <img align="center" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=azuras03&show_icons=true&locale=en&layout=compact" alt="azuras03" />
